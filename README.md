@@ -1,27 +1,27 @@
 # Superstore Data Analysis
 
-## Overview
-Exploratory data analysis of Superstore sales data to uncover trends in
-sales, profit, and customer segments.
+## 📌 Project Overview
+This project performs exploratory data analysis (EDA) on a Superstore dataset to uncover sales trends, profit patterns, and category performance.
 
-## Tools & Libraries
+## 🛠 Tools & Libraries
 - Python
 - Pandas
-- Matplotlib / Seaborn
-- Jupyter Notebook
+- NumPy
+- Matplotlib
+- Seaborn
 
-## Key Insights
-- Technology category generates the highest profit
-- Certain regions show high sales but low profitability
-- Discount levels strongly impact profit margins
+## 📊 Key Analysis
+- Sales and profit distribution
+- Category and sub-category performance
+- Regional insights
+- Data visualization
 
-## Files
-- `Superstore data analysis.ipynb` – main analysis notebook
+## 📁 Files
+- `Superstore data analysis.ipynb` – Main analysis notebook
+- `superstore.csv` – Dataset (if included)
 
-## How to Run
+## 🚀 How to Run
 1. Clone the repository
-2. Install dependencies
+2. Install required libraries
 3. Open the notebook in Jupyter
 
-## Author
-Your Name
